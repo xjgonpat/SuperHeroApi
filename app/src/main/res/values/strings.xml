@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuperHero App</string>
+    <string name="api_key" translatable="false">3218999741764244</string>
+</resources>
